@@ -1,0 +1,32 @@
+vehicle
+{
+    "vehicle_id": "B02",
+    "vehicleType": "Bus",
+    "ServiceType": "Tour",
+    "model": "BXY",
+    "images": {
+    "url": "https://res.cloudinary.com/drmy319ph/image/upload/v1633928826/UHire-	vehicles/pmgaxoju8gptwk2c6hns.jpg"
+             },
+    "name": "Jyeyan",
+    "eMail": "Jeyan@gmail.com",
+    "contactNumber": "0794578987",
+    "address": "Kilinochchi"
+    
+}
+
+
+Enquiry
+{
+     "name": "raj-jeya",
+     "address": "Kilinochchi",
+     "email": "raj3@gmail.com",
+     "nicNumber": "982950041V",
+     "phone": "0775889741",
+     "vehicleType": "car",
+     "serviceType": "ShortTrip",
+     "pickupLocation": "kilinochchi, town",
+     "pickupDate": "2021/11/13",
+     "returnDate": "2021/11/14",
+     "numberOfPassengers": "2",
+     "pickupTime": "8.00am"
+}
